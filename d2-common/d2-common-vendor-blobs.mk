@@ -25,6 +25,7 @@ PRODUCT_COPY_FILES += \
         vendor/samsung/d2-common/proprietary/bin/bcm4334_semco.hcd:system/bin/bcm4334_semco.hcd \
         vendor/samsung/d2-common/proprietary/lib/libacdbloader.so:system/lib/libacdbloader.so \
         vendor/samsung/d2-common/proprietary/lib/libaudcal.so:system/lib/libaudcal.so \
+        vendor/samsung/d2-common/proprietary/lib/libExtendedExtractor.so:system/lib/libExtendedExtractor.so \
         vendor/samsung/d2-common/proprietary/lib/libmmparser.so:system/lib/libmmparser.so \
         vendor/samsung/d2-common/proprietary/lib/libmmosal.so:system/lib/libmmosal.so \
         vendor/samsung/d2-common/proprietary/lib/libdivxdrm.so:system/lib/libdivxdrm.so \
@@ -104,6 +105,7 @@ PRODUCT_COPY_FILES += \
         vendor/samsung/d2-common/proprietary/lib/libchromatix_ov2720_preview.so:system/lib/libchromatix_ov2720_preview.so \
         vendor/samsung/d2-common/proprietary/lib/libchromatix_s5k6a3yx_default_video.so:system/lib/libchromatix_s5k6a3yx_default_video.so \
         vendor/samsung/d2-common/proprietary/lib/libchromatix_s5k6a3yx_preview.so:system/lib/libchromatix_s5k6a3yx_preview.so \
+        vendor/samsung/d2-common/proprietary/lib/libchromatix_s5k6a3yx_smart_stay.so:system/lib/libchromatix_s5k6a3yx_smart_stay.so \
         vendor/samsung/d2-common/proprietary/lib/libchromatix_s5k6a3yx_vt_hd.so:system/lib/libchromatix_s5k6a3yx_vt_hd.so \
         vendor/samsung/d2-common/proprietary/lib/libchromatix_s5k6a3yx_vt.so:system/lib/libchromatix_s5k6a3yx_vt.so \
         vendor/samsung/d2-common/proprietary/cameradata/SlimISP_GC.bin:system/cameradata/SlimISP_GC.bin \
